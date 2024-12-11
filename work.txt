@@ -2,3 +2,4 @@ Todo list tanggal 11 Desember 2024
 1. Menyusun laporan PM PGD - SecIron
 2. Revisi dokumen Kajian Teknis PGD - SecIron
 3. Membuat weekly report untuk hari Jumat
+4. Kick off meeting project
